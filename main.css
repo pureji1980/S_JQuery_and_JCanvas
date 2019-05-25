@@ -1,0 +1,11 @@
+#main{
+   margin:0px;
+   border:solid 5px #555500;
+   padding:3px;
+}
+
+#canv{
+   margin:10px;
+   padding:3px;
+   border:solid 2px #000000;
+}
