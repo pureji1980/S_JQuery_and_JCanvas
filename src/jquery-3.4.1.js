@@ -13,5 +13,12 @@
  */
 
 //To protect licences and rights,please download from
-
 https://jquery.com/download/
+
+//You need write down scripts tags in html
+ex)
+<head>
+    
+  <script src="src/jquery-3.4.1.js></script>
+  <script src="src/jcanvas.min.js></script>
+</head>
